@@ -1,7 +1,7 @@
 {
   "name": "Cash App",
   "short_name": "CP",
-  "start_url": "/nifer.html",
+  "start_url": "/cash/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000"
