@@ -1,7 +1,8 @@
 {
   "name": "Cash App",
-  "theme_color": "#19f916",
-  "background_color": "#12ff00",
-  "short_name": "Cash App",
-  "description": "Made by @vyyporr on tele."
+  "short_name": "CP",
+  "start_url": "/",
+  "display": "standalone",  // Makes the app look like a native app
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
 }
